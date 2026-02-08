@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=python,r,sql,excel,powerbi,tableau)](https://skillicons.dev)
 
-**Skills & Expertise**
+##Skills & Expertise
 - Digital Government & Public Sector Transformation
 - Regulatory Implementation & Impact Assessment
 - Administrative Process Mapping & Simplification
