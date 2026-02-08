@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=python,r,sql,excel,powerbi,tableau,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,sql,excel,powerbi,tableau)](https://skillicons.dev)
 
-<!--
 **Skills & Expertise**
 - Digital Government & Public Sector Transformation
 - Regulatory Implementation & Impact Assessment
@@ -34,9 +33,9 @@ Here are some ideas to get you started:
 - Trade & Economic Data Analysis
 - Policy Brief Writing & Stakeholder Coordination
 
---> 
----
 
+---
+<!--
 ## 📂 Portfolio Repositories
 - **[public-sector-digitalisation](https://github.com/Brenda-Cunha/public-sector-digitalisation)** – Simulation of Single Window implementation and administrative digital workflows.
 - **[regulatory-impact-analysis](https://github.com/Brenda-Cunha/regulatory-impact-analysis)** – Sample RIA for import/export licensing reform.
@@ -45,7 +44,7 @@ Here are some ideas to get you started:
 - **[process-mapping](https://github.com/Brenda-Cunha/process-mapping)** – Mapping and simplification of administrative procedures.
 
 ---
-
+--> 
 
 ## 📫 How to reach me:
 
